@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\AR Practice Folder\Scripts\MenuManager.cs">
+    <Files>
+      <File FileName="Assets\readme_SDK.txt" Line="1" Column="1" />
+      <File FileName="Assets\AR Practice Folder\Scripts\GridWorks.cs" Line="1" Column="1" />
+      <File FileName="Assets\AR Practice Folder\Scripts\GridPieceClick.cs" Line="197" Column="143" />
+      <File FileName="Assets\AR Practice Folder\Scripts\ResourceManager.cs" Line="88" Column="20" />
+      <File FileName="Assets\AR Practice Folder\Scripts\MenuManager.cs" Line="12" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

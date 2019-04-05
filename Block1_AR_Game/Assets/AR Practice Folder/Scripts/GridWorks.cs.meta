@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 922fba2785427694eac065514eb9595f
+timeCreated: 1509043578
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - gridPrefab: {fileID: 1453996846908282, guid: 6217b5ed2fc358741b0becfd2ae673e0,
+      type: 2}
+  - parentObject: {instanceID: 0}
+  - buildable: {fileID: 100000, guid: df307d168793cd24c861cdd891252ee9, type: 3}
+  - crematory: {fileID: 100000, guid: e54dd276cc6c7ef47a73bca184bc08df, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

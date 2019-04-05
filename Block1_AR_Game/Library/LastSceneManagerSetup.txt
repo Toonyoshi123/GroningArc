@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/AR Practice Folder/Marker1.unity
+  isLoaded: 1
+  isActive: 1
